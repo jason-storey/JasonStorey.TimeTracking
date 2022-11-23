@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JasonStorey.TimeTracking", "JasonStorey.TimeTracking\JasonStorey.TimeTracking.csproj", "{C9E45D8E-BE45-4ED0-80A7-3D220587439E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JasonStorey.TimeTracking.ClockifyIntegration", "JasonStorey.TimeTracking.ClockifyIntegration\JasonStorey.TimeTracking.ClockifyIntegration.csproj", "{B6D9DB3F-2AC5-4FC8-93D1-A2AEC9922260}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9E45D8E-BE45-4ED0-80A7-3D220587439E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9E45D8E-BE45-4ED0-80A7-3D220587439E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9E45D8E-BE45-4ED0-80A7-3D220587439E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9E45D8E-BE45-4ED0-80A7-3D220587439E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6D9DB3F-2AC5-4FC8-93D1-A2AEC9922260}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6D9DB3F-2AC5-4FC8-93D1-A2AEC9922260}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6D9DB3F-2AC5-4FC8-93D1-A2AEC9922260}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6D9DB3F-2AC5-4FC8-93D1-A2AEC9922260}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
